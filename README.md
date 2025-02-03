@@ -1,4 +1,5 @@
 # Mastering-React-Redux
+![Banner Image](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsk3vdofe7r7r5wax1scb.png?text=Mastering+React+and+Redux)
 ## About This Repository
 
 This repository is dedicated to my journey of mastering React and Redux. Here, I will be practicing my skills, building projects, and documenting my learning process.
